@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi 🎉 Welcome to hlix's Github Homepage!
+# Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <h4>
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
@@ -7,18 +9,7 @@
 
 <!-- > 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵. -->
 
-<p style="font-size: 12px">I'm Xin Chen, a front-end developer from China. I love exploring and learning new things...</p>
-
-<!-- ![profile views](https://komarev.com/ghpvc/?username=lencx&style=plastic) -->
-![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.lencx)
-
-![ID](https://img.shields.io/badge/🆔-lencx-%23323031?style=flat&labelColor=323031)
-![wechat](https://img.shields.io/badge/-o--IIII--o-%23323031?style=flat&logo=wechat)
-[![知乎](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=zhihu)](https://www.zhihu.com/people/lencx_)
-[![浮之静](https://img.shields.io/badge/-Join「浮之静」-%23323031?style=flat&logo=discord)](https://discord.gg/WNGjFXB)
-[![公众号](https://img.shields.io/badge/公众号-浮之静-%23323031?style=flat&labelColor=323031)](https://mp.weixin.qq.com/s/K9UtoDSL2mMh_hWm-xPPtg)
-[![dev.to](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=dev.to)](https://dev.to/lencx)
-[![reddit](https://img.shields.io/badge/-lencx-%23323031?style=flat&logo=reddit)](https://www.reddit.com/user/lencx)
+<p style="font-size: 12px">I'm hlix, a front-end developer from China. I love exploring and learning new things...</p>
 
 **Languages and Tools**
 
@@ -36,41 +27,15 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-%23FDAD00?style=flat&logo=sketch&logoColor=ffffff)
 
 ---
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://blog.csdn.net/wangzirui32"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+<a href="https://space.bilibili.com/1513364019"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/wangzirui32&right_color=red" />
+</p>
 
-- [WA+ Download](https://github.com/lencx/WA/releases) - Making a web page more like a desktop application is just the beginning, the possibilities are unlimited, up to your imagination!
-- **Tauri 系列** - 打造属于自己的跨端应用
-  - [知乎专栏](https://www.zhihu.com/column/c_1519079232848785408)
-  - [公众号(免费篇 + 付费篇)](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2593843659863752704) - 探索 Tauri 更多的能力。免费篇在知乎专栏，GitHub Discussions 是同步更新的。付费内容针对性解决一些问题（涉及 Tauri 源码，解决思路等），不定期更新。原创不易，有能力的朋友可以支持一下，感恩。
-- **Rust 在前端** - 用前端视角学习 Rust
-  - [知乎专栏](https://www.zhihu.com/column/c_1538173764251971584)
-  - [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzNjE2NTI3NQ==&action=getalbum&album_id=2640902652406530050)
-
----
-
-<a href="https://www.buymeacoffee.com/lencx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
-
-<details>
-
-<summary>💖 Other</summary>
-
-<img alt="lencx stats" width="360" src="https://lencx-stats.vercel.app/api?username=lencx&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true"><br>
-<img alt="lencx's wakatime stats" width="360" src="https://lencx-stats.vercel.app/api/wakatime?username=lencx&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392">
-
-<a href="https://github.com/lencx/z/discussions/2"><img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png"></a>
-
-</details>
-
-<!--
-**a-hlx/a-hlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
+![](https://stats.justsong.cn/api/csdn?id=wangzirui32&theme=dark)
+![](https://stats.justsong.cn/api/bilibili/?id=1513364019&theme=dark)
+![](https://activity-graph.herokuapp.com/graph?username=wangzirui32&theme=github)
